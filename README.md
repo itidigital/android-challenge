@@ -1,10 +1,11 @@
 # Teste Android
 ## Sobre nós
-olá!
-somos o Iti, plataforma de pagamentos instantâneos do Itaú, já ouviu falar da gente?
+Olá!
+
+Somos o Iti, plataforma de pagamentos instantâneos do Itaú, já ouviu falar da gente?
 se não, dá uma olhada lá na Apple Store e na Google Play. 
-Iti Android: https://play.google.com/store/apps/details?id=com.itau.iti&hl=pt_BR
-Iti iOS: https://apps.apple.com/br/app/iti-ita%C3%BA-pagar-e-receber/id1442872271
+ - Iti Android: https://play.google.com/store/apps/details?id=com.itau.iti&hl=pt_BR
+ - Iti iOS: https://apps.apple.com/br/app/iti-ita%C3%BA-pagar-e-receber/id1442872271
 estamos a cada dia criando mais interações na aplicação e crescendo a nossa equipe.
 queremos conhecer um pouco das coisas que você gosta de fazer no seu dia a dia e pra isso montamos um desafio
 ## Desafio
