@@ -1,20 +1,11 @@
 # Teste Android
-## Sobre nós
-Olá!
-
-Somos o Iti, plataforma de pagamentos instantâneos do Itaú, já ouviu falar da gente?
-se não, dá uma olhada lá na Apple Store e na Google Play. 
- - Iti Android: https://play.google.com/store/apps/details?id=com.itau.iti&hl=pt_BR
- - Iti iOS: https://apps.apple.com/br/app/iti-ita%C3%BA-pagar-e-receber/id1442872271
- 
-estamos a cada dia criando mais interações na aplicação e crescendo a nossa equipe.
-queremos conhecer um pouco das coisas que você gosta de fazer no seu dia a dia e pra isso montamos um desafio
 
 ## Desafio
-O objetivo é implementar um app onde podemos ver os a lista de personagens da Marvel.
-O app deve mostrar uma lista e ser possível navegar para os detalhes de cada personagem. 
-Além disso, tanto na lista quanto na tela de detalhes, deve ser possível favoritar o personagem. 
-Os personagens favoritados devem ser persistidos no device para que possam ser acessados offline e serem mostrados em uma aba própria.
+O objetivo é implementar um app onde podemos ver a lista de personagens da Marvel.
+
+ - [ ] O app deve mostrar uma lista e ser possível navegar para os detalhes de cada personagem. 
+- [ ] Além disso, o personagem poderá ser favoritado tanto na lista quanto na tela de detalhes. 
+- [ ] Os personagens favoritados devem ser persistidos no device para que possam ser acessados offline e serem mostrados em uma aba própria.
 
 Nos entregue quando estiver orgulhoso do que fez! =)
 
